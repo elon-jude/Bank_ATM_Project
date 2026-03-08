@@ -23,19 +23,3 @@ gcc atm.c -o atm
 # or
 atm.exe              # Windows
 Files
-Purpose / Learning value
-Very first example of file reading and writing in C
-Basic user input handling
-Simple floating-point money representation
-Minimal error checking (intentional — to keep code short)
-
-Requirements
-Any C compiler (gcc, clang, tcc, Visual Studio, etc.)
-No libraries, no dependencies
-
-Tiny C ATM — balance + deposit • saves to text file •  file I/O 
-
-License
-MIT License
-Feel free to use, modify, share.
-Made in Accra – March 2026
